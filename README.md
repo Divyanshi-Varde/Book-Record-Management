@@ -22,7 +22,7 @@ within subscription date >> if missed the renewal >> 50/- day
 subscription date has also been missed >> and missed the renewal too >> 100 + 50/- day
 
 
->> book1
+<!-- >> book1
 >> basic
 >> 06/04/2023 -> subscription date
 >> 07/04/2023 => borrowed book from library
@@ -36,7 +36,7 @@ subscription date has also been missed >> and missed the renewal too >> 100 + 50
 >> 07/04/2023 => borrowed a book from library
 >> book2 renewal date is on 21/04/2023
 >> 23/07/2023 => we need to pay a fine of 100+50
-
+ -->
 missed by renewal date >> 50/-
 missed by subscription date >> 100/-
 missed by renewal and subscription date both >> 150/-
