@@ -102,9 +102,9 @@ indexOf()
 class.indexOf("seven")
 
 MVC Arch => Controllers
->> M: Model (It depicts the structure of aMongoDb Collections)
->> V: View (wrt to frontend (reactJs))
->> C: Controllers (Brain or logical part of a route)
+M: Model (It depicts the structure of aMongoDb Collections)
+V: View (wrt to frontend (reactJs))
+C: Controllers (Brain or logical part of a route)
 >> books.controllers.js
 >> users.controllers.js
 
@@ -125,7 +125,7 @@ amazon: 18k
 flipkart: 17k -->
 
 Foreing Key:
->> Referential Integrity
+Referential Integrity
 
 Users Table:                           
 issuedBook: 3(Foreing Key here)
