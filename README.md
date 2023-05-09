@@ -102,11 +102,11 @@ indexOf()
 class.indexOf("seven")
 
 MVC Arch => Controllers
-  >> M: Model (It depicts the structure of aMongoDb Collections)
-  >> V: View (wrt to frontend (reactJs))
-  >> C: Controllers (Brain or logical part of a route)
-        >> books.controllers.js
-        >> users.controllers.js
+>> M: Model (It depicts the structure of aMongoDb Collections)
+>> V: View (wrt to frontend (reactJs))
+>> C: Controllers (Brain or logical part of a route)
+>> books.controllers.js
+>> users.controllers.js
 
 Schema:
 id: String
