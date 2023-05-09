@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "name": "THE MOBK WHO SOLD HIS FERRARI",
+      "author": "ROBIN SHARMA",
+      "genre": "Inspriration",
+      "price": "225",
+      "publisher": "The Jaico Team"
+    },
+    {
+      "id": "2",
+      "name": "Wings of Fire",
+      "author": "Arun Tiwari",
+      "genre": "Autobiography",
+      "price": "399",
+      "publisher": "Universities Press Provate limited"
+    },
+    {
+      "id": "3",
+      "name": "The 5 AM Club",
+      "author": "Robin Sharma",
+      "genre": "Motivation",
+      "price": "350",
+      "publisher": "The Jaico Team"
+    }
+  ]
+}
